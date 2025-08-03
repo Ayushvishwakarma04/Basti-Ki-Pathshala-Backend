@@ -47,7 +47,6 @@ List all registered users:
     "name": "Example User",
     "email": "user@example.com",
     "role": "volunteer",
-    "registration_date": "2023-08-03T00:00:00"
   }
 ]
 ```
