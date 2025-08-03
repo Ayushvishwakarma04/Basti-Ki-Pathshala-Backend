@@ -1,0 +1,4 @@
+fastapi
+sqlmodel[sqlite]
+uvicorn
+gunicorn
